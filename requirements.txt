@@ -1,0 +1,8 @@
+transformers
+peft
+gradio
+torch
+evaluate
+rouge_score
+sentencepiece
+accelerate
